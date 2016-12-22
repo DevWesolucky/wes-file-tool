@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DevWesolucky/wes-file-tool.git"
+  },
   "keywords": [
     "file"
   ],
