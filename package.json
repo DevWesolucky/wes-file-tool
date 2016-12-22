@@ -1,0 +1,14 @@
+{
+  "name": "wes-file-tool",
+  "version": "1.0.0",
+  "description": "Custom file tool",
+  "main": "FileTool.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "dev@wesolucky.pl",
+  "license": "ISC"
+}
